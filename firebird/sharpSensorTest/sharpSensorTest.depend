@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1417441927 source:l:\codeblocksprograms\firebird\sharpsensortest\fuse.c
+	<avr/io.h>
+

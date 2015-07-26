@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1419655367 source:l:\codeblocksprograms\firebird\servotest\fuse.c
+	<avr/io.h>
+
+1419656569 source:c:\users\smd\desktop\imp\e yantra\firebird\servotest\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1416073418 source:d:\codeblocksprograms\linefollow1\fuse.c
+	<avr/io.h>
+
+1416312823 source:d:\codeblocksprograms\linefollow1\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"Motor.h"
+	"Sensors.h"
+
+1416309964 d:\codeblocksprograms\linefollow1\motor.h
+
+1416313019 d:\codeblocksprograms\linefollow1\sensors.h
+	"ADC.h"
+
+1416312755 d:\codeblocksprograms\linefollow1\adc.h
+
+1416073418 source:l:\codeblocksprograms\linefollow1\fuse.c
+	<avr/io.h>
+
+1416491652 source:l:\codeblocksprograms\linefollow1\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"Motor.h"
+	"Sensors.h"
+	"lcd.h"
+
+1416490288 l:\codeblocksprograms\linefollow1\motor.h
+
+1416490400 l:\codeblocksprograms\linefollow1\sensors.h
+	"ADC.h"
+
+1416312755 l:\codeblocksprograms\linefollow1\adc.h
+
+1416491475 l:\codeblocksprograms\linefollow1\lcd.h
+
+1416073418 source:l:\codeblocksprograms\firebird\linefollow1\fuse.c
+	<avr/io.h>
+
+1417510747 source:l:\codeblocksprograms\firebird\linefollow1\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"Motor.h"
+	"lcd.h"
+	"ADC.h"
+
+1417182560 l:\codeblocksprograms\firebird\linefollow1\motor.h
+
+1417181848 l:\codeblocksprograms\firebird\linefollow1\lcd.h
+
+1416312755 l:\codeblocksprograms\firebird\linefollow1\adc.h
+

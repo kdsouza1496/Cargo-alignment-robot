@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1417528375 source:l:\codeblocksprograms\firebird\linefollow3\fuse.c
+	<avr/io.h>
+

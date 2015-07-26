@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1425095811 source:l:\codeblocksprograms\firebird\final1\fuse.c
+	<avr/io.h>
+
+1425171098 source:c:\users\smd\desktop\final1\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"Motor.h"
+	"ADC.h"
+	"lcd.h"
+	"myServo.h"
+
+1424879134 c:\users\smd\desktop\final1\motor.h
+
+1416321756 c:\users\smd\desktop\final1\adc.h
+
+1417190850 c:\users\smd\desktop\final1\lcd.h
+
+1425147172 c:\users\smd\desktop\final1\myservo.h
+
